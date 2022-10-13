@@ -1,1 +1,2 @@
-# themes-pkgbuilds
+# packarch-themes
+ // Packages : Themes
