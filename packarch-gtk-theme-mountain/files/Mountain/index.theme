@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mountain
+Comment=A dark theme with flat style for GNOME
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mountain
+MetacityTheme=Mountain
+IconTheme=Boston
+ButtonLayout=:minimize,maximize,close
